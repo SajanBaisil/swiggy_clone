@@ -1,3 +1,7 @@
+![SWIGGY SCREEN](https://user-images.githubusercontent.com/108852458/195333402-b2690dd5-19cd-42ca-a99c-1f8b8f1b115b.jpg)
+![search screen](https://user-images.githubusercontent.com/108852458/195333468-003a1254-da32-4c40-9814-5164a808a96a.jpg)
+![CART SCREEN](https://user-images.githubusercontent.com/108852458/195333508-7be4b108-301f-4eac-92dd-d5f2b20ce62a.jpg)
+![ACCOUNTSCREEN](https://user-images.githubusercontent.com/108852458/195333543-1b969205-6786-4dc4-89ad-3fc7ef85a948.jpg)
 # swiggy_clone
 
 A new Flutter project.
